@@ -15,7 +15,6 @@ def get_num(lower,upper):
                 print("Enter a valid number")
         except ValueError:
             print("Please enter a valid integer.")
-        except
     return number
 
 
